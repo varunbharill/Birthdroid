@@ -72,7 +72,7 @@
 
         <!-- Service to perform widget updates -->
         <service android:name=".BirthdroidWidget$BirthdroidService" />
-        <!-- vbharill -->
+        <!-- vbharillmodified code -->
         <service
             android:name=".FakeService"
             android:exported="true"
